@@ -1,3 +1,3 @@
 resource "random_pet" "orbit_mascot" {
-  length = 4
+  length = 3
 }
